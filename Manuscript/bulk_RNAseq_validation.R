@@ -2,7 +2,6 @@
 ## Proportion change of cell types from control to inactive and active CD patients in bulk RNAseq
 ## The code including one bulk RNA-seq example (Fig3G): deconvolution and proportion change.
 
-
 library(Seurat)
 library(ggplot2)
 library(patchwork)
